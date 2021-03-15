@@ -1,0 +1,36 @@
+[
+    {
+      "name":"Product 1",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 2",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 3",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 4",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 5",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 6",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 7",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    },{
+      "name":"Product 8",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image":"https://source.unsplash.com/random"
+    }
+]
+
