@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <div id="element1" > 
+    element1
+      <div id="element2"> 
+        element2
+        <div id="element3"> 
+          element3
+        </div> 
+      </div> 
+    </div>
+  <p id="result"></p>
+  <script>
+    document.getElementById("element1").onmousemove = function(event) { 
+      document.getElementById("result").innerHTML = event.target.id;
+    };
+    document.getElementById("element1").onmouseout = function() { 
+      document.getElementById("result").innerHTML = ''
+    };
+  </script>
+</body>
+</html>
